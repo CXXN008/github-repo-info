@@ -2,7 +2,7 @@
 // @name         github-repo-info
 // @name:zh-CN   github显示仓库信息
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Add ⌛creation date/🍴forks/📁 repo size to repo search result page,code search page and repo detail page.
 // @description:zh-cn 向仓库搜索页，代码搜索页，仓库主页添加 ⌛创建时间/🍴fork数/📁文件大小显示
 // @author       CXXN008
