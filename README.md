@@ -8,3 +8,6 @@ yet another userscript for github
 here u can add your own key:
 
 ![](https://github.com/CXXN008/github-repo-info/blob/master/preview/g4.png?raw=true)
+
+grab here:
+https://github.com/settings/tokens
