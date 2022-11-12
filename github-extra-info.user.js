@@ -16,7 +16,7 @@
 
 'use strict';
 // github free rates are limited to 5000 / hour ,if u get some errors in console , try https://github.com/settings/tokens -> Generate new token & paste here
-const API_TOKEN = atob('Z2l0aHViX3BhdF8xMUFaRldORVEwWUlReGNQVFUxa2lXXzB3eTRXRG0zc3dDcUJnc0E0M1l0cUFLN0JodTk2R2FaSmtGcnlaT2lBWE0yUDJDR0tVRDNqZ1lrVlRG')
+const API_TOKEN = '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'
 const STYLE = ``
 
 const PAGE_SELECTOR = { 'search': 'li.repo-list-item> div > div> div > a.v-align-middle', 'repo': 'strong.mr-2 > a:nth-child(1)', 'code': '.Link--secondary' }
